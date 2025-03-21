@@ -22,12 +22,12 @@
 // RESTO DA DIVISÃO  12 % 3 = 0    0,1 E 2
 
 
-var numero1=10
-var numero2=3
+// var numero1=10
+// var numero2=3
 
-var soma = numero1 + numero2
+// var soma = numero1 + numero2
 
-alert(soma)
+// alert(soma)
 
 
 
