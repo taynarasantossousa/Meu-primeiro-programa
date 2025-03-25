@@ -1,4 +1,6 @@
-var dado = Number(prompt("Digite um valor em dolar"))
-var multi = dado * 5.68
+var dolar = Number(prompt("Digite um valor em dolar"))
+var taxaCambio =  5.30
+var realConvertido = dolar * taxaCambio
 
-alert("Esse valor em dolar é " + multi.toFixed(2))
+alert(`O valor de US$${dolar} = R$$
+    {realConvertido.toFixed(2)}`)
